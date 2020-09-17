@@ -1,7 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCRMSDK", "ZCRMSDK.csproj", "{7109D93A-24B3-4B64-A8FE-8486D211AFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCRMSDK2", "..\ZCRMSDK2\ZCRMSDK2.csproj", "{D51A05CD-107A-4888-A173-D48C4A76DF92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,8 +13,17 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7109D93A-24B3-4B64-A8FE-8486D211AFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7109D93A-24B3-4B64-A8FE-8486D211AFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7109D93A-24B3-4B64-A8FE-8486D211AFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7109D93A-24B3-4B64-A8FE-8486D211AFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51A05CD-107A-4888-A173-D48C4A76DF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51A05CD-107A-4888-A173-D48C4A76DF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51A05CD-107A-4888-A173-D48C4A76DF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51A05CD-107A-4888-A173-D48C4A76DF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407C9693-0707-496B-B1A1-D3E8B73D4D1F}
 	EndGlobalSection
 EndGlobal

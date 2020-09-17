@@ -1,0 +1,9 @@
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\bin\Debug\netstandard2.0\ZCRMSDK2.deps.json
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\bin\Debug\netstandard2.0\ZCRMSDK2.dll
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\bin\Debug\netstandard2.0\ZCRMSDK2.pdb
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\obj\Debug\netstandard2.0\ZCRMSDK2.AssemblyInfoInputs.cache
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\obj\Debug\netstandard2.0\ZCRMSDK2.AssemblyInfo.cs
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\obj\Debug\netstandard2.0\ZCRMSDK2.csproj.CoreCompileInputs.cache
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\obj\Debug\netstandard2.0\ZCRMSDK2.dll
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\obj\Debug\netstandard2.0\ZCRMSDK2.pdb
+D:\Repos2019\zcrm-csharp-sdk\ZCRMSDK2\obj\Debug\netstandard2.0\ZCRMSDK2.csprojAssemblyReference.cache
